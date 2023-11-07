@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(252, 235, 235) !important;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.offcanvas-title{
+    color: white !important;
+}
+.offcanvas-header{
+    background-color: antiquewhite !important;
+}
+.offcanvas-body{
+    background-color: blue !important;
+}
+.offcanvas.offcanvas-end {
+    width: 223px !important;
+}
+.main{
+    margin-top: 200px;
+    text-align: center;
+    color: #0D6EFD;
+}
+h1{
+    font-size: 80px !important;
+}
